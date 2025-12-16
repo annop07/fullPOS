@@ -16,6 +16,9 @@ This repository contains a web-based Point of Sale (POS) application that suppor
 ### User Confirm reserve
 ![Confirm reserve](public/hana_pos/confirm-reserve.jpg)
 
+### User history reserve
+![History reserve](public/hana_pos/history-reserve-user.jpg)
+
 ### User Reserve detail wait
 ![Reserve detail wait](public/hana_pos/reserve-detail-wait.jpg)
 
@@ -31,8 +34,56 @@ This repository contains a web-based Point of Sale (POS) application that suppor
 ### User order history
 ![order history](public/hana_pos/order-history.jpg)
 
+### Order summary ingredian
+![Summary ingredian](public/hana_pos/summary-ingredian.jpg)
 
-### Admin Dashboard
-![Admin Dashboard](public/hana_pos/admin-dashboard.jpg)
+### Order history
+![Order history](public/hana_pos/order-history.jpg)
+
+### Login staff
+![Login staff](public/hana_pos/Login-backend.jpg)
+
+### Main menu staff
+![Main menu staff](public/hana_pos/Today-Reservations.jpg)
+
+### Manage table
+![Manage table](public/hana_pos/order-chair.jpg)
+
+### QRCode table
+![QRCode table](public/hana_pos/QRCode-order.jpg)
+
+### Reserve list 
+![Reserve list](public/hana_pos/reserve-list-backend.jpg)
+
+### List order kitchen
+![List order kitchen](public/hana_pos/list-order-in-kitchen.jpg)
+
+### Stock 
+![Stock](public/hana_pos/stock-ingredian.jpg)
+
+### Add new ingredients
+![Add new ingredients](public/hana_pos/new-ingredian.jpg)
+
+### Edit ingredients
+![Edit ingredients](public/hana_pos/edit-stock.jpg)
+
+### import ingredients
+![import ingredients](public/hana_pos/import-ingredian.jpg)
+
+### import history
+![import history](public/hana_pos/import-history.jpg)
+
+### Product withdrawal history
+![Product withdrawal history](public/hana_pos/Product-Withdrawal-History.jpg)
+
+### Admin dashboard
+![Admin dashboard](public/hana_pos/admin-dashboard.jpg)
+
+### Add employee
+![Add employee](public/hana_pos/add-employee.jpg)
+
+### Edit employee
+![Edit employee](public/hana_pos/edit-employee-info.jpg)
+
 
 
