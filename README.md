@@ -76,6 +76,12 @@ This repository contains a web-based Point of Sale (POS) application that suppor
 ### Product withdrawal history
 ![Product withdrawal history](public/hana_pos/Product-Withdrawal-History.jpg)
 
+### Payment
+![Payment](public/hana_pos/Payment.jpg)
+
+### receipt
+![receipt](public/hana_pos/receipt.jpg)
+
 ### Admin dashboard
 ![Admin dashboard](public/hana_pos/admin-dashboard.jpg)
 
